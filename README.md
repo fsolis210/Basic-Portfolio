@@ -1,1 +1,2 @@
-# basic-portfolio
+# Basic-Portfolio
+My personal protfolio
